@@ -27,8 +27,7 @@ Put the beater/qualys.conf file into `/etc/qualysbeat/` and set the file with cl
 	}
 }
 ```
-in cliente parameter put the **ENTIRE TITLE** of scan:
-example : `"Scan Davines"or "Scan Erg"` 
+cliente parameter is optional
 
 ### Execute
 
