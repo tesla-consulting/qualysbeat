@@ -1,0 +1,9 @@
+- key: qualysbeat
+  title: qualysbeat
+  description:
+  fields:
+    - name: counter
+      type: long
+      required: true
+      description: >
+        PLEASE UPDATE DOCUMENTATION
