@@ -1,8 +1,7 @@
-
- 
 Qualysbeat
 ============
- 
+
+
  _______        _          _____                      _ _   _             
  |__   __|      | |        / ____|                    | | | (_)            
     | | ___  ___| | __ _  | |     ___  _ __  ___ _   _| | |_ _ _ __   __ _ 
@@ -20,6 +19,7 @@ We hope this tool added value, if there's anything we can do to help, please con
 
 
 ### Getting Started with Qualysbeat
+=======================================
 
 Put the qualysbeat root folder in your linux path system 
 ```
