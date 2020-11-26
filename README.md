@@ -2,7 +2,7 @@
 Qualysbeat
 ============
 
-The TeslaConsulting -Qualysbeat- is an open source log shipper used to fetch Qualys Platform logs from provider API and forward them with all the flexibility and capability provided by the beats platform toward ElasticSearch instance.
+The TeslaConsulting **Qualysbeat** is an open source log shipper used to fetch Qualys Platform logs from provider API and forward them with all the flexibility and capability provided by the beats platform toward ElasticSearch instance.
 
 We hope this tool added value, if there's anything we can do to help, please contact us.
 
