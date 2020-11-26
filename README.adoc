@@ -18,7 +18,7 @@ We hope this tool added value, if there's anything we can do to help, please con
 
 
 
-### Getting Started with Qualysbeat
+Getting Started with Qualysbeat
 =======================================
 
 Put the qualysbeat root folder in your linux path system 
@@ -46,7 +46,8 @@ Put the beater/qualys.conf file into `/etc/qualysbeat/` and set the file with cl
 ```
 cliente is optional parameter
 
-### Execute
+Execute
+===============
 
 execute command:
 
