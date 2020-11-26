@@ -28,7 +28,8 @@ take a `qualysbeat.yml` file from the root path and put him into
 ```
 /etc/qualysbeat/
 ```
-Configure the `qualysbeat.yml` with your favorite parameters
+
+== Configure the `qualysbeat.yml` with your favorite parameters
 
 -----
 
@@ -46,7 +47,7 @@ Put the beater/qualys.conf file into `/etc/qualysbeat/` and set the file with cl
 cliente is optional parameter
 -----
 
-= Execute
+== Execute
 
 execute command:
 
