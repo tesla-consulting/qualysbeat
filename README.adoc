@@ -14,7 +14,7 @@
 
 TeslaConsulting Qualysbeat is an open-source tool that leverages the Qualys API to collect the platform logs and ship them with all the flexibility and capabilities provided by the beats platform toward ElasticSearch instance.
 
-Qualysbeat is used in the proactive security solution CSCR powered by. CSCR is a service that deals with real-time IT and Business Risk Analysis, through the usage of Threat intelligence and IoCs and the contextualization of security event data.
+Qualysbeat is used in the proactive security solution CSCR powered by. Cyber Security Control Room (CSCR) is a service that deals with real-time IT and Business Risk Analysis, through the usage of Threat intelligence and IoCs and the contextualization of security event data.
 
 We hope this tool added value, if there’s anything we can do to help, please contact us.
 
