@@ -62,3 +62,7 @@ execute command:
 ifndef::imagesdir[:imagesdir: images]
 
 image::Head_Qualys.PNG[]
+
+image::Middle_Qualys.PNG[]
+
+image::Footer_Qualys.PNG[]
