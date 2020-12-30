@@ -56,3 +56,7 @@ execute command:
 ```
 /usr/share/qualysbeat/qualysbeat -c /etc/qualysbeat/qualysbeat.yml -e
 ```
+
+= Preview Results
+
+
