@@ -59,4 +59,4 @@ execute command:
 
 = Preview Results
 
-image::<filename>[]
+image::docs/Head_Qualys.PNG[]
