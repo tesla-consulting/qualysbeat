@@ -59,4 +59,6 @@ execute command:
 
 = Preview Results
 
-image::docs/Head_Qualys.PNG[]
+ifndef::imagesdir[:imagesdir: images]
+
+image::Head_Qualys.PNG[]
