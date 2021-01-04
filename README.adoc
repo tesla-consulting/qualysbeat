@@ -16,7 +16,7 @@ TeslaConsulting Qualysbeat is an open-source tool that leverages the Qualys API 
 
 Cyber Security Control Room (CSCR) is a service that deals with real-time IT and Business Risk Analysis, through the usage of Threat intelligence and IoCs and the contextualization of security event data.
 
-We hope this tool added value, if there’s anything we can do to help, please contact us.
+We hope this tool could be useful for the community. If there is anything we can do to help, feel free to contact us.
 
 
 
