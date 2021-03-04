@@ -46,8 +46,8 @@ qualysbeat:
   cliente: "*" 
 [SNIP...]
 ```
-cliente is optional parameter
 -----
+cliente is optional parameter
 
 == Execute
 
