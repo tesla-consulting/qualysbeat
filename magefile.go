@@ -14,20 +14,15 @@ import (
 	"github.com/elastic/beats/v7/dev-tools/mage/target/common"
 	"github.com/elastic/beats/v7/dev-tools/mage/target/pkg"
 	"github.com/elastic/beats/v7/dev-tools/mage/target/unittest"
-	"github.com/elastic/beats/v7/generator/common/beatgen"
 )
 
 func init() {
 	devtools.SetBuildVariableSources(devtools.DefaultBeatBuildVariableSources)
 
 	devtools.BeatDescription = "One sentence description of the Beat."
-	devtools.BeatVendor = "Francesco Jr"
+	devtools.BeatVendor = "SebastianM"
 	devtools.BeatProjectType = devtools.CommunityProject
-}
-
-// VendorUpdate updates the vendor dir
-func VendorUpdate() error {
-	return beatgen.VendorUpdate()
+	devtools.CrossBuildMountModcache = true
 }
 
 // Package packages the Beat for distribution.
@@ -56,7 +51,9 @@ func Fields() error {
 
 // Config generates both the short/reference/docker configs.
 func Config() error {
-	return devtools.Config(devtools.AllConfigTypes, devtools.ConfigFileParams{}, ".")
+	p := devtools.DefaultConfigFileParams()
+	p.Templates = append(p.Templates, "_meta/config/*.tmpl")
+	return devtools.Config(devtools.AllConfigTypes, p, ".")
 }
 
 // Clean cleans all generated files and build artifacts.

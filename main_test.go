@@ -6,7 +6,7 @@ import (
 	"flag"
 	"testing"
 
-	"github.com/fs015/qualysbeat/cmd"
+	"github.com/tesla-consulting/qualysbeat/cmd"
 )
 
 var systemTest *bool

@@ -1,7 +1,0 @@
-################### {Beat} Configuration Example #########################
-
-############################# {Beat} ######################################
-
-qualysbeat:
-  # Defines how often an event is sent to the output
-  period: 1s

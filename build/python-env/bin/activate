@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/home/mrbubbles/go/src/github.com/fs015/qualysbeat/build/python-env"
+VIRTUAL_ENV="/home/fs015/go/src/github.com/tesla-consulting/qualysbeat/build/python-env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

@@ -29,7 +29,7 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
-set -gx VIRTUAL_ENV "/home/mrbubbles/go/src/github.com/fs015/qualysbeat/build/python-env"
+set -gx VIRTUAL_ENV "/home/fs015/go/src/github.com/tesla-consulting/qualysbeat/build/python-env"
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

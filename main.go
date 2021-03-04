@@ -3,9 +3,9 @@ package main
 import (
 	"os"
 
-	"github.com/fs015/qualysbeat/cmd"
+	"github.com/tesla-consulting/qualysbeat/cmd"
 
-	_ "github.com/fs015/qualysbeat/include"
+	_ "github.com/tesla-consulting/qualysbeat/include"
 )
 
 func main() {

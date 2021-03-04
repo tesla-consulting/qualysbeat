@@ -6,7 +6,11 @@ package config
 import "time"
 
 type Config struct {
-	Period time.Duration `config:"period"`
+	Period   time.Duration `config:"period"`
+	Api      string        `config:"api"`
+	User     string        `config:"user"`
+	Password string        `config:"password"`
+	Cliente  string        `config:"cliente"`
 }
 
 var DefaultConfig = Config{

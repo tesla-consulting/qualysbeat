@@ -1,7 +1,7 @@
 package cmd
 
 import (
-	"github.com/fs015/qualysbeat/beater"
+	"github.com/tesla-consulting/qualysbeat/beater"
 
 	cmd "github.com/elastic/beats/v7/libbeat/cmd"
 	"github.com/elastic/beats/v7/libbeat/cmd/instance"

@@ -1,5 +1,5 @@
 qualysbeat
-Copyright {year} Francesco Jr
+Copyright {year} SebastianM
 
 This product includes software developed by The Apache Software
 Foundation (http://www.apache.org/).

@@ -1,4 +1,4 @@
-#!/home/mrbubbles/go/src/github.com/fs015/qualysbeat/build/python-env/bin/python3
+#!/home/fs015/go/src/github.com/tesla-consulting/qualysbeat/build/python-env/bin/python3
 
 import argparse
 import code
